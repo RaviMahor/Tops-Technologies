@@ -1,0 +1,25 @@
+Function questions for jiya
+
+
+# Functions Practice Questions (Basic Level)
+
+1. Create a function named greet() that prints "Welcome to Python Programming".
+
+2. Create a function named display_name(name) that accepts a name as an argument and prints:
+   Hello, <name>!
+
+3. Create a function named add_numbers(a, b) that returns the sum of two numbers.
+
+4. Create a function named find_square(num) that returns the square of a given number.
+
+5. Create a function named find_cube(num) that returns the cube of a given number.
+
+6. Create a function named is_even(num) that returns True if the number is even, otherwise False.
+
+7. Create a function named find_largest(a, b) that returns the larger of two numbers.
+
+8. Create a function named calculate_area(length, width) that returns the area of a rectangle.
+
+9. Create a function named count_characters(text) that returns the total number of characters present in a string.
+
+10. Create a function named calculate_factorial(n) that returns the factorial of a given number using a function.
